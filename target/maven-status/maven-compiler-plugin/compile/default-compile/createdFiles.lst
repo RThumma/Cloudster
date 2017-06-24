@@ -1,0 +1,13 @@
+com\cloudster\auth\model\User.class
+com\cloudster\auth\model\Role.class
+com\cloudster\auth\WebApplication.class
+com\cloudster\auth\repository\UserRepository.class
+com\cloudster\auth\validator\UserValidator.class
+com\cloudster\auth\web\UserController.class
+com\cloudster\auth\service\UserService.class
+com\cloudster\auth\service\SecurityService.class
+com\cloudster\auth\service\UserDetailsServiceImpl.class
+com\cloudster\auth\service\UserServiceImpl.class
+com\cloudster\auth\repository\RoleRepository.class
+com\cloudster\auth\WebSecurityConfig.class
+com\cloudster\auth\service\SecurityServiceImpl.class
